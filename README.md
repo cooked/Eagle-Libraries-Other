@@ -1,5 +1,8 @@
 # Eagle-Libraries-Other
 
+anomalous maker
+https://github.com/cmonr/Eagle-Libraries
+
 Arduino clones
 https://github.com/cyberlink1/Arduino-Eagle-Cad-Library/
 
